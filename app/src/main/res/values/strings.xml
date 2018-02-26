@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MaterialDesignDemo</string>
+    <string name="syh">石焰华</string>
+    <string name="my_github">https://github.com/iyam184</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="action_setting">setting</string>
+    <string name="home">主页</string>
+    <string name="fenlei">分类</string>
+    <string name="fankui">反馈</string>
+    <string name="set">设置</string>
+</resources>
